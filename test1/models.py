@@ -5,3 +5,6 @@ x = 123
 y = 321
 
 
+class File:
+    pass
+
